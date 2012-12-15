@@ -17,7 +17,8 @@
         }
     ],
     "require": {
-        "zendframework/zendframework": "dev-master#2a398b4e81c31bdfbda917a867896c48d4f62bcf"
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">=2.0.5"
     },
     "autoload": {
         "psr-0": {
